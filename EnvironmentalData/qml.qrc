@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>homePage.qml</file>
+        <file>img/tanzania flag.png</file>
+        <file>img/reportIcon.png</file>
+        <file>img/settingIcon.png</file>
+        <file>img/infoIcon.png</file>
+        <file>img/eduIcon.png</file>
+        <file>img/incident0.jpg</file>
+        <file>img/incident1.jpg</file>
+        <file>img/incident2.jpg</file>
+        <file>img/incident3.jpg</file>
+        <file>img/bookIcon.png</file>
+        <file>img/leaf0.png</file>
+        <file>infoPage.qml</file>
+        <file>settingPage.qml</file>
+        <file>educationPage.qml</file>
+        <file>img/treeIcon.jpg</file>
+        <file>img/waterIcon.jpg</file>
+        <file>img/trashIcon.png</file>
+        <file>img/home.png</file>
+        <file>example1Info.qml</file>
+        <file>reportPage/reportImgPage.qml</file>
+        <file>reportPage/thankYouPage.qml</file>
+        <file>reportPage/reportPage.qml</file>
+        <file>reportPage/reportLocationPage.qml</file>
+        <file>reportPage/reportTypePage.qml</file>
+        <file>reportPage/reportInfoPage.qml</file>
+        <file>reportPage/reportDescriptionPage.qml</file>
+        <file>img/treedown.jpg</file>
+        <file>img/trash.jpg</file>
+        <file>example2Info.qml</file>
+        <file>example3Info.qml</file>
+    </qresource>
+</RCC>
